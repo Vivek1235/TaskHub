@@ -20,5 +20,5 @@
 ## **Tech Stack**
 
 - **Backend**: PHP
-- **Frontend**: JavaScript
+- **Frontend**: JavaScript, CSS
 - **Database**: MySQL
